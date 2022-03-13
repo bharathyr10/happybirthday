@@ -1,0 +1,23 @@
+{
+  "greeting": "Hiya",
+  "name": "Tanesha",
+  "greetingText": "I really like your name but I love to call you as paapa ;) !",
+  "wishText": "May the js.prototypes always be with you! ;)",
+  "imagePath": "img/photo.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, one more surprise awaits you. Until then enjoy your birthday :)",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
